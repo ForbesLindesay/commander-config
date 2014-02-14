@@ -26,7 +26,7 @@
     "mocha": "*"
   },
   "dependencies": {
-    "q": "0.8.x",
+    "q": "*",
     "js-yaml": "1.x.x"
   }
 }
